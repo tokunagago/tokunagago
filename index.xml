@@ -13,7 +13,12 @@
       <pubDate>Fri, 24 Dec 2021 10:13:14 +0900</pubDate>
       
       <guid>https://tokunagago.github.io/post/test/</guid>
-      <description>hugoのてすとタイトル1 hugoのてすとタイトル2 hugoのてすとタイトル3 hugoのてすとタイトル4 本文テキスト本文テキスト本文テキスト本文テキスト本文テキスト本文テキスト 本文テキスト本文テキスト</description>
+      <description>hugoのてすとタイトル1 hugoのてすとタイトル2 hugoのてすとタイトル3 hugoのてすとタイトル4 本文テキスト本文テキスト本文テキスト本文テキスト本文テキスト
+本文テキスト本文テキスト本文テキスト
+HTMLのコード テスト
+&amp;lt;h1&amp;gt;タイトル1&amp;lt;/h1&amp;gt; &amp;lt;h2&amp;gt;タイトル2&amp;lt;/h2&amp;gt; JavaScriptのコード テスト
+(() =&amp;gt; { const test = &amp;#39;test&amp;#39;; console.log(test); })(); テーブル テスト
+   左寄せ 中央寄せ 右寄せ     a b c    </description>
     </item>
     
   </channel>
