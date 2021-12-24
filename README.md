@@ -14,6 +14,7 @@ theme = '適用するテーマ名'
 
 記事の作成
 `hugo new post/タイトル名.md`
+
 Hugoトップディレクトリ/content/post/`タイトル名`.mdが生成される
 
 ローカルでチェック
